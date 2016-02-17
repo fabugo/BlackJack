@@ -1,0 +1,15 @@
+{C:/Users/Fabio Almeida/Documents/BlackJack/sim/tb/blackjack_tb.v} {1 {vlog -work workBlackJack {C:/Users/Fabio Almeida/Documents/BlackJack/sim/tb/blackjack_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module blackjack_tb
+
+Top level modules:
+	blackjack_tb
+
+} {} {}} {C:/Users/Fabio Almeida/Documents/BlackJack/verilog/BlackJackFSM.v} {1 {vlog -work workBlackJack {C:/Users/Fabio Almeida/Documents/BlackJack/verilog/BlackJackFSM.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BlackJackFSM
+
+Top level modules:
+	BlackJackFSM
+
+} {} {}}
