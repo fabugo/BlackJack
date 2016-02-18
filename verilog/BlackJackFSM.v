@@ -79,7 +79,7 @@ module BlackJackFSM(
 		endcase
 	end
 
-	//bloco combinaciona filho da puta
+	//bloco combinacional
 	always @(*) begin
 	lose  = 0;	tie   = 0;	dstay = 0;	win   = 0;
 		case(state)
